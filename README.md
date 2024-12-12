@@ -100,7 +100,7 @@ All endpoints require authentication.
      ```json
      {
          "question_id": 1,
-         "choice_id": 1
+         "choices_id": 1
      }
      ```
    - Response:
